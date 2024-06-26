@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameSceneController">
+			<method name="btnFalseClick"/>
+			<method name="btnRestartClick"/>
+			<method name="btnTrueClick"/>
+			<method name="RollDice"/>
+		</type>
+	</assembly>
+</linker>

@@ -11,8 +11,9 @@ using UnityEditor;
 
 public class GameSceneController : MonoBehaviour
 {
-    FormulaFactory factory = new FormulaFactory();
+
     #region Declarations
+    FormulaFactory factory = new FormulaFactory();
     public GameObject character;
     private float stepX;
     private float stepZ;
@@ -83,7 +84,7 @@ public class GameSceneController : MonoBehaviour
             _txtPhrase.text = form?.Phrase;
             _txtInterpretationSymbols.text = form?.VariableValue;
 
-            Debug.Log("Resposta: " + form.Response + " | Step: " + step);
+            //Debug.Log("Resposta: " + form.Response + " | Step: " + step);
         }
         else
         {
@@ -117,18 +118,20 @@ public class GameSceneController : MonoBehaviour
     public void CheckResponse(bool response)
     {
         var formulaCurrent = SelectedFormulas[step];
+        DialogManager dialogManager = FindObjectOfType<DialogManager>();
+
 
         if (formulaCurrent.Response == response)
         {
             //Exibe mensagem que acertou
-            EditorUtility.DisplayDialog("Você acertou e pode permanecer nessa casa",
-             "Acertou!", "Ok");
+            dialogManager.ShowDialog("Você acertou e pode permanecer nessa casa",
+            "Acertou!");
         }
         else
         {
             //Exibe mensagem que errou
-            EditorUtility.DisplayDialog("Você errou e retornará a casa inicial da jogada",
-             "Errou :(", "Ok");
+            dialogManager.ShowDialog("Você errou e retornará a casa inicial da jogada", 
+            "Errou :(");
             MoveStep(-1 * resultDice, returning: true);
         }
 
@@ -266,9 +269,11 @@ public class GameSceneController : MonoBehaviour
             Z = 7.7f;
 
             float timeElapsed = Time.time - startTime;
+            DialogManager dialogManager = FindObjectOfType<DialogManager>();
 
-            EditorUtility.DisplayDialog("Você ganhou o jogo, seu tempo foi: " + GetTimeStr(false),
-             "Ganhou!", "Ok");
+
+            dialogManager.ShowDialog("Você ganhou o jogo, seu tempo foi: " + GetTimeStr(false),
+            "Ganhou!");
 
             isGameRunning = false;
         }
