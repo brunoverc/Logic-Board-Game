@@ -10,8 +10,7 @@ O Jogo de Tabuleiro Lógico é um jogo educativo desenvolvido em Unity que integ
 2. **Movimento**: Os jogadores lançam um dado e avançam o número correspondente de casas.
 3. **Casas Especiais**: Algumas casas contêm problemas de lógica proposicional (fase 1) ou lógica de predicados (fase 2). 
    - **Problema de Lógica**: Se o jogador resolver corretamente o problema, mantém as casas avançadas. Caso contrário, retorna X casas conforme a penalidade da casa.
-   - **Bônus e Penalidades**: Algumas casas oferecem bônus (por exemplo, avance X casas) ou penalidades (por exemplo, volte X casas).
-4. **Fim do Jogo**: O primeiro jogador a chegar à casa 51 vence o jogo.
+4. **Fim do Jogo**: O jogo finaliza quando o jogador conseguir chegar no menor tempo possível na última casa.
 
 ## Conceitos de Lógica
 - **Lógica Proposicional**: Envolve operações lógicas básicas como AND, OR, NOT e IMPLICATION.
