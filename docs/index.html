@@ -57,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/BuildWebGL.loader.js";
+      var loaderUrl = buildUrl + "/docs.loader.js";
       var config = {
-        dataUrl: buildUrl + "/BuildWebGL.data.gz",
-        frameworkUrl: buildUrl + "/BuildWebGL.framework.js.gz",
-        codeUrl: buildUrl + "/BuildWebGL.wasm.gz",
+        dataUrl: buildUrl + "/docs.data",
+        frameworkUrl: buildUrl + "/docs.framework.js",
+        codeUrl: buildUrl + "/docs.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Logic Board Game",
@@ -98,7 +98,7 @@
         canvas.style.height = "600px";
       }
 
-      canvas.style.background = "url('" + buildUrl + "/BuildWebGL.jpg') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/docs.jpg') center / cover";
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
