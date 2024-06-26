@@ -1211,4 +1211,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/BoardScene.unity
-  playerPath: /Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/BuildWebGL
+  playerPath: /Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/docs/BuildWebGL

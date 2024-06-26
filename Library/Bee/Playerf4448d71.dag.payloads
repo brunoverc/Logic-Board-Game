@@ -1,0 +1,667 @@
+Payload for "WriteText Library/Bee/artifacts/csharpactions/boot.config_7kyv.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.PlayerBuildProgramBase","methodName":"WriteBootConfigAction","assemblyLocation":"/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/WebGL/boot.config"],"inputs":["Library/PlayerDataCache/WebGL/Data/boot.config","Library/PlayerDataCache/WebGL/Data/boot.config","Library/PlayerDataCache/WebGL/Data/data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AIModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AccessibilityModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AndroidJNIModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AnimationModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AssetBundleModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AudioModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ClothModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ContentLoadModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.CoreModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.CrashReportingModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.DSPGraphModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.DirectorModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GIModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GameCenterModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GridModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.HotReloadModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.IMGUIModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ImageConversionModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.InputLegacyModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.InputModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.JSONSerializeModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.LocalizationModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ParticleSystemModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PerformanceReportingModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.Physics2DModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PhysicsModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ProfilerModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PropertiesModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ScreenCaptureModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SharedInternalsModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SpriteMaskModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SpriteShapeModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.StreamingModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SubstanceModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SubsystemsModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TLSModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TerrainModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TerrainPhysicsModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextCoreFontEngineModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextCoreTextEngineModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextRenderingModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TilemapModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UIElementsModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UIModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UmbraModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityAnalyticsCommonModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityAnalyticsModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityConnectModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityCurlModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityTestProtocolModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestAudioModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestTextureModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestWWWModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VFXModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VRModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VehiclesModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VideoModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WebGLModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WindModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.XRModule.dll","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.dll","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Accessibility.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.AccessControl.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.AppContext.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Buffers.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Concurrent.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.NonGeneric.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Specialized.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Annotations.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.EventBasedAsync.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.TypeConverter.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Console.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.Common.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.SqlClient.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Contracts.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Debug.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.FileVersionInfo.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Process.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.StackTrace.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TextWriterTraceListener.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tools.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceEvent.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceSource.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tracing.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Drawing.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Dynamic.Runtime.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Calendars.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Extensions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Compression.ZipFile.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.AccessControl.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.DriveInfo.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Watcher.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.IsolatedStorage.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.MemoryMappedFiles.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Pipes.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.UnmanagedMemoryStream.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Expressions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Parallel.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Queryable.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Memory.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.AuthenticationManager.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Cache.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.HttpListener.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Mail.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NameResolution.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NetworkInformation.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Ping.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Requests.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Security.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.ServicePoint.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Sockets.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Utilities.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebHeaderCollection.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.Client.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ObjectModel.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.DispatchProxy.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.ILGeneration.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.Lightweight.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Extensions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.TypeExtensions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Reader.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ReaderWriter.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ResourceManager.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Writer.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.CompilerServices.VisualC.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Extensions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Handles.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.RuntimeInformation.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.WindowsRuntime.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Loader.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Numerics.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Formatters.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Json.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Xml.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.AccessControl.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Claims.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Algorithms.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Cng.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Csp.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.DeriveBytes.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encoding.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.Aes.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDiffieHellman.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDsa.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.Algorithms.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.OpenSsl.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Pkcs.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.ProtectedData.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RSA.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RandomNumberGenerator.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.X509Certificates.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.Windows.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.SecureString.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Duplex.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Http.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.NetTcp.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Security.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceProcess.ServiceController.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.CodePages.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.Extensions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.RegularExpressions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.AccessControl.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Overlapped.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Extensions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Parallel.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Thread.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.ThreadPool.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Timer.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ValueTuple.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.ReaderWriter.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XDocument.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XDocument.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XmlDocument.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlDocument.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlSerializer.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.Xsl.Primitives.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/netstandard.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Microsoft.CSharp.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Sqlite.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Tds.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Security.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.Composition.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.DataAnnotations.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.Install.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Core.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.DataSetExtensions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Entity.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Linq.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.OracleClient.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.Client.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Design.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.Protocols.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.Design.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.EnterpriseServices.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.FileSystem.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.Selectors.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Json.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Management.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Messaging.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.WebRequest.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.Vectors.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Reflection.Context.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Caching.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.DurableInstancing.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Remoting.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.Formatters.Soap.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Security.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Activation.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Discovery.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Internals.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Routing.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Web.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceProcess.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Transactions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.ApplicationServices.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.DynamicData.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.Design.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.RegularExpressions.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Services.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.DataVisualization.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xaml.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Linq.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Serialization.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.dll","/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/mscorlib.dll","Library/Bee/Playerf4448d71-inputdata.json"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_s8p8.info"
+
+{"PlayerBuildProgramLibrary.ClassRegistrationGenerator+Arguments":{"linkerOutput":"Library/Bee/artifacts/WebGL/ManagedStripped/UnityLinkerToEditorData.json","editorOutput":"/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json","moduleAssetsPath":"/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/modules.asset","outputClassRegistration":"/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp","enableStripping":true},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.ClassRegistrationGenerator","methodName":"Run","assemblyLocation":"/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp"],"inputs":["Library/Bee/artifacts/WebGL/ManagedStripped/UnityLinkerToEditorData.json","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/modules.asset"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/bdwgc/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/sebzfip7rbxe0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/UnityAdsStubs.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/char-conversions.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/il2cpp-api.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/il2cpp-benchmark-support.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/il2cpp-mono-api.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/il2cpp-runtime-stats.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/o09v7eqqb24w0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/codegen/il2cpp-codegen-common.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/codegen/il2cpp-codegen-il2cpp.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/codegen/il2cpp-codegen-tiny.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/n17fmztyk6xb0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/gc/BoehmGC.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/gc/GCHandle.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/gc/GarbageCollector.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/gc/NullGC.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/gc/WriteBarrier.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/gc/WriteBarrierValidation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5wxxp6286g510.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/Runtime.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeClassHandle.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeGPtrArrayHandle.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeMarshal.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/SafeStringMarshal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/fpz6yctsbsr80.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/Debugger.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackFrame.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/czjf4l2ils3g0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CalendarData.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CompareInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureData.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/RegionInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/z49udufclqaf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.IO/BrokeredFileSystem.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.IO/DriveInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.IO/MonoIO.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.IO/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/czft3qgjrjq40.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Assembly.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/CustomAttributeData.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/EventInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/ParameterInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeMethodInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/czft3qgjrjq41.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/AssemblyName.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/FieldInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Module.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethodInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeAssembly.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeEventInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeModule.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeParameterInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/czft3qgjrjq42.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MethodBase.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethod.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeConstructorInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeFieldInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimePropertyInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/sccjabckibfo0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/GCHandle.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/Marshal.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/RuntimeInformation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ke2xf8kx57lg0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/AsyncResult.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/MonoMethodMessage.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/l2le7nl75ezr0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsIdentity.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsImpersonationContext.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsPrincipal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6gil474zaw9m0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Text/EncodingHelper.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Text/Normalization.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/nmh2jllwj09x0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/InternalThread.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Monitor.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Mutex.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/NativeEventCalls.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/OSSpecificSynchronizationContext.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Thread.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Timer.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/WaitHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1oyjtx0c9kr50.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/ArgIterator.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeFieldHandle.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1oyjtx0c9kr51.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/AppDomain.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Array.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/CurrentSystemTimeZone.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/DateTime.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/NumberFormatter.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Object.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeMethodHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1oyjtx0c9kr52.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Buffer.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/GC.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/MonoCustomAttrs.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeType.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeTypeHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1oyjtx0c9kr53.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/CLRConfig.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/ConsoleDriver.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Delegate.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Enum.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Environment.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Exception.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Number.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/String.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/TypedReference.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/ValueType.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/x266ug3kv9mt0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Diagnostics/DefaultTraceListener.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Diagnostics/FileVersionInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Process.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Stopwatch.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/u6u2edrlde650.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/LinuxNetworkInterface.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/MacOsIPInterfaceProperties.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/gbf4tgoeunsc0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/Socket.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/SocketException.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6x0u7oi1m1lc0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/CustomAttributeCreator.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/CustomAttributeDataReader.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/FieldLayout.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/GenericMetadata.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/GenericSharing.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericContextCompare.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericMethodHash.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppSignature.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6x0u7oi1m1lc1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/ArrayMetadata.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/GenericMethod.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericContextHash.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericMethodCompare.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppTypeCompare.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6x0u7oi1m1lc2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericClassCompare.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericClassHash.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericInstCompare.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericInstHash.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppTypeHash.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/nk7gkhqu8vsm0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/3j9u6tmw56330.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Android/ConsoleExtension.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Android/Initialize.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Android/Locale.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Android/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ksek5mwxnqwr0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/CultureInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Error.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/File.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Locale.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ksek5mwxnqwr1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Allocator.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Console.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Directory.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Environment.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Path.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Socket.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Time.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/0eeygkpisllr0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_errno.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_io.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_networking.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_random.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_sizecheck.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_time.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_uid.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_unused.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/j8g8lvwc4mk20.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/CrashHelpers.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Error.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Event.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/FastReaderReaderWriterLock.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/LibraryLoader.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Messages.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Semaphore.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/j8g8lvwc4mk21.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ConditionVariable.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Image.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Mutex.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Path.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/ReaderWriterLock.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Socket.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ffktsalgoijr0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/BrokeredFileSystem.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Initialize.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/WaitObject.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ffktsalgoijr1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Assert.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/CpuInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Debug.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Handle.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/LibraryLoader.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/MemoryMappedFile.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/SystemCertificates.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Thread.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ffktsalgoijr2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/COM.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/CrashHelpers.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Environment.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/File.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/MarshalStringAlloc.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/SocketBridge.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/SocketImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ocqvgguvorzf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/OSX/Image.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/OSX/Process.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/OSX/SystemCertificates.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/OSX/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/34az4l6babmn0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/CrashHelpers.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Error.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Locale.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/PosixHelpers.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Thread.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/ThreadImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/34az4l6babmn1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Directory.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Encoding.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/FileSystemWatcher.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/MarshalAlloc.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/SocketImpl.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/SystemCertificates.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/34az4l6babmn2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/CpuInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Cryptography.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/File.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/LastError.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/LibraryLoader.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/MemoryMappedFile.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/34az4l6babmn3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/ConditionVariableImpl.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Console.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Environment.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Image.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Memory.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/NativeMethods.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Path.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Process.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/StackTrace.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Time.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/f8gepbzdqgct0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Assert.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/CrashHelpers.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/File.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/LibraryLoader.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/MarshalStringAlloc.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/f8gepbzdqgct1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Console.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Encoding.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Image.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Locale.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/f8gepbzdqgct2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/COM.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Cryptography.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Debug.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Directory.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/DllMain.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/FileSystemWatcher.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Initialize.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/MemoryMappedFile.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/NativeMethods.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Process.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/SystemCertificates.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Thread.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/WindowsHelpers.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/f8gepbzdqgct3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/MarshalAlloc.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Memory.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/SocketImpl.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/StackTrace.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/ThreadImpl.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/f8gepbzdqgct4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/ConditionVariableImpl.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/CpuInfo.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Environment.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/LastError.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/SynchronizationContext.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Time.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e1v2r346ja8l0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Cryptography.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/File.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Initialize.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Locale.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Win32ApiSharedEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e1v2r346ja8l1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/BrokeredFileSystem.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Environment.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/MarshalAlloc.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Process.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Win32ApiWinRTEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/uqzyhnz3rzur0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Output.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Runtime.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/mono-structs.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/sha1.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/uqzyhnz3rzur1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Exception.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Il2CppError.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Logging.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Memory.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MemoryMappedFile.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MemoryPool.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MemoryRead.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/uqzyhnz3rzur2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/DirectoryUtils.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Environment.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MarshalingUtils.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MemoryPoolAddressSanitizer.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/PathUtils.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/utils/StringUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/q48z0bcd20op0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/BlobReader.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/DebugSymbolReader.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/Debugger.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/Finally.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/VmStringUtils.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/VmThreadUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/3ej70q1pzrth0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/Math.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/MathF.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e2c2ie04w2az0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ClassInlines.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ComObjectBase.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Module.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Path.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/String.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/VisualizerHelpers.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e2c2ie04w2az1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Array.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Assembly.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MarshalAlloc.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Object.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/PlatformInvoke.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Reflection.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/WaitHandle.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/WeakReference.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e2c2ie04w2az2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/COM.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/COMEntryPoints.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Enum.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Exception.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/InternalCalls.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Liveness.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MetadataAlloc.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Profiler.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/RCW.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e2c2ie04w2az3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/AndroidRuntime.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/CCW.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ClassLibraryPAL.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Domain.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/GlobalMetadata.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/LastError.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MemoryInformation.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Method.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Monitor.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Random.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ScopedThreadAttacher.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e2c2ie04w2az4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/AssemblyName.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/CCWBase.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/GenericClass.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/GenericContainer.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Image.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Parameter.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Property.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e2c2ie04w2az5.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Field.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Il2CppHStringReference.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MetadataLoader.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Runtime.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/StackTrace.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ThreadPoolMs.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e2c2ie04w2az6.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Class.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Event.cpp"
+#include "/Volumes/SSD Externo/2022.3.33f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MetadataCache.cpp"
+    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info"
+
+{"WebGLPlayerBuildProgram.FrameworkAssembler+Data":{"threadsSupport":false,"source":"Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js","jsprePlugins":[]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.FrameworkAssembler","methodName":"Run","assemblyLocation":"/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/WebGLPlayerBuildProgram.exe","targets":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js"],"inputs":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/webgl.data_qnm2.info"
+
+{"System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]":{"Library/PlayerDataCache/WebGL/Data/data.unity3d":"data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json":"RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json":"ScriptingAssemblies.json","Library/Bee/artifacts/WebGL/boot.config":"boot.config","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat":"Il2CppData/Metadata/global-metadata.dat","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources":"Resources/unity_default_resources","Temp/StagingArea/Data/Resources/unity_builtin_extra":"Data/Resources/unity_builtin_extra"},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.DataAssembler","methodName":"Run","assemblyLocation":"/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/WebGLPlayerBuildProgram.exe","targets":["Library/Bee/artifacts/WebGL/webgl.data"],"inputs":["Library/PlayerDataCache/WebGL/Data/data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json","Library/Bee/artifacts/WebGL/boot.config","/Users/brunovercosa/Documents/Projects/Unity/Logic Board Game/Logic-Board-Game/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat","/Volumes/SSD Externo/2022.3.33f1/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources","Temp/StagingArea/Data/Resources/unity_builtin_extra"],"targetDirectories":[]}}    
+
