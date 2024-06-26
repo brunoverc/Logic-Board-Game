@@ -38,8 +38,8 @@ O Jogo de Tabuleiro Lógico é um jogo educativo desenvolvido em Unity que integ
 
 ## Contribuição
 
-- Fork o projeto.
-- Crie uma branch para sua feature (git checkout -b feature/sua-feature).
-- Commit suas mudanças (git commit -m 'Adicionar feature X').
-- Push para a branch (git push origin feature/sua-feature).
-- Abra um Pull Request.
+1. Fork o projeto.
+2. Crie uma branch para sua feature (git checkout -b feature/sua-feature).
+3. Commit suas mudanças (git commit -m 'Adicionar feature X').
+4. Push para a branch (git push origin feature/sua-feature).
+5. Abra um Pull Request.
