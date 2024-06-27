@@ -1,5 +1,9 @@
 # Jogo de Tabuleiro Lógico
 
+## Acesso em:
+
+https://brunoverc.github.io/Logic-Board-Game/
+
 ## Visão Geral
 O Jogo de Tabuleiro Lógico é um jogo educativo desenvolvido em Unity que integra conceitos de lógica proposicional e lógica de predicados. O objetivo do jogo é ajudar os jogadores a aprender e praticar esses conceitos de maneira divertida e interativa.
 
