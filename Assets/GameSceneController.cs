@@ -84,7 +84,7 @@ public class GameSceneController : MonoBehaviour
             _txtPhrase.text = form?.Phrase;
             _txtInterpretationSymbols.text = form?.VariableValue;
 
-            //Debug.Log("Resposta: " + form.Response + " | Step: " + step);
+            Debug.Log("Resposta: " + form.Response + " | Step: " + step);
         }
         else
         {
